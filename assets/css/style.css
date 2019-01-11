@@ -45,6 +45,17 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,100,300,700,900|Montserrat:400,700|Nothing+You+Could+Do);
 @import url(https://fonts.googleapis.com/css?family=Crete+Round:400,400italic);
 
+
+@font-face {
+ font-family: 'hanyiRegular';
+ src: url('hanyi.eot');
+ src: local('hanyi Regular'),
+        local('hanyi'),
+        url('hanyi.woff') format('woff'),
+        url('hanyi.ttf') format('truetype'),
+        url('hanyi.svg#hanyi') format('svg');
+}  
+
 /*-----------------------------------------------------------------------------------*/
 
 
